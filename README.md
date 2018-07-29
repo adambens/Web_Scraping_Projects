@@ -3,7 +3,7 @@ This repository contains my projects from an upper level undergraduate class in 
 
 # Content
 ### [Subreddit Posts](https://github.com/adambens/Web_Scraping_Projects/tree/master/Subreddits)
-Subreddit popularity: Looking at the creation date and submission score of the most popular posts in ; a user entered subreddit 
+Subreddit popularity: Looking at the creation date and submission score of the most popular posts in a user entered subreddit 
 
 <img width="900" alt="img1" src="./Subreddits/Reddit Submissions.png">
 
