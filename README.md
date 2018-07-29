@@ -4,9 +4,8 @@ This repository contains my projects from an upper level undergraduate class in 
 # Content
 ### [Facebook Events Mapper](https://github.com/adambens/Geoscience_Data_Analysis_Projects/blob/master/Global%20Temperature%20Changes/Global%20Climatic%20Averages.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century 
-| | |
-|:-------------------------:|:-------------------------:|
-|Lab 1 <img width="1500" alt="img1" src="./Facebook Events Scraper/FB EVENTS1.png">
+
+|<img width="1500" alt="img1" src="./Facebook Events Scraper/FB EVENTS1.png">
 
 ### [Reddit subreddit graphs]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns 
