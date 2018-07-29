@@ -14,4 +14,4 @@ This repository contains my projects from an upper level undergraduate class in 
 
 ### [New York Times Articles Wordcloud]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-New York Times Wordcloud: Matches articles based on a user entered query and constructs a wordcloud of the most popular words in all articles matching the query.
+New York Times Wordcloud: Matches articles based on a user entered query and constructs a wordcloud of the most popular words in the first 100 articles matching the query.
