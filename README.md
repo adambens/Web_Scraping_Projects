@@ -20,39 +20,39 @@ New York Times Wordcloud: Matches articles based on a user entered query and con
 
 # Requirements
 
-INSTRUCTIONS:
-Required: Reddit account, Facebook account, NYT API Key
-Required Libraries: pandas, basemap, matplotlib, praw, wordcloud, plot.ly
+INSTRUCTIONS:<br>
+Required: Reddit account, Facebook account, NYT API Key<br>
+Required Libraries: pandas, basemap, matplotlib, praw, wordcloud, plot.ly<br>
 
-Get NYT API KEY from : http://developer.nytimes.com/ 
-Get Reddit Token Information : https://github.com/reddit/reddit/wiki/OAuth2 
-Get Facebook API  User Access Token: https://developers.facebook.com/docs/facebook-login/access-tokens/ 
+Get NYT API KEY from : http://developer.nytimes.com/ <br>
+Get Reddit Token Information : https://github.com/reddit/reddit/wiki/OAuth2 <br>
+Get Facebook API  User Access Token: https://developers.facebook.com/docs/facebook-login/access-tokens/ <br>
 
 # Documentation 
 Documentation for Reddit:
-https://www.reddit.com/dev/api 
-https://github.com/praw-dev/praw 
-http://praw.readthedocs.io/en/latest/code_overview/reddit_instance.html 
+https://www.reddit.com/dev/api <br>
+https://github.com/praw-dev/praw  <br>
+http://praw.readthedocs.io/en/latest/code_overview/reddit_instance.html <br> 
 
-Documentation for Facebook:
-http://facebook-sdk.readthedocs.io/en/latest/api.html 
-https://developers.facebook.com/docs/graph-api 
+Documentation for Facebook: <br>
+http://facebook-sdk.readthedocs.io/en/latest/api.html <br> 
+https://developers.facebook.com/docs/graph-api  <br>
 
-Documentation for New York Times:
-https://developer.nytimes.com/article_search_v2.json#/Console/GET/articlesearch.json 
-http://developer.nytimes.com/#h3-facets-working 
+Documentation for New York Times:<br>
+https://developer.nytimes.com/article_search_v2.json#/Console/GET/articlesearch.json <br>
+http://developer.nytimes.com/#h3-facets-working <br>
 
-Documentation for wordcloud:
-https://github.com/amueller/word_cloud 
-https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html 
+Documentation for wordcloud:<br>
+https://github.com/amueller/word_cloud <br>
+https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html <br>
 
-Documentation for basemap:
-http://matplotlib.org/basemap/ 
-https://matplotlib.org/users/colors.html 
+Documentation for basemap:<br>
+http://matplotlib.org/basemap/ <br>
+https://matplotlib.org/users/colors.html <br>
 
-Documentation for plot.ly:
-https://plot.ly/python/time-series/
+Documentation for plot.ly:<br>
+https://plot.ly/python/time-series/<br>
 
-Documentation for pandas:
-http://pandas.pydata.org/pandas-docs/stable/visualization.html#bar-plots 
-http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/Chapter%209%20-%20Loading%20data%20from%20SQL%20databases.ipynb 
+Documentation for pandas:<br>
+http://pandas.pydata.org/pandas-docs/stable/visualization.html#bar-plots <br>
+http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/Chapter%209%20-%20Loading%20data%20from%20SQL%20databases.ipynb <br>
