@@ -15,7 +15,7 @@ Mapping Facebook Events: Looking at the location of facebook events that match a
 ### [New York Times Articles Wordcloud]()  
 New York Times Wordcloud: Matches articles based on a user entered query and constructs a wordcloud of the most popular words in the first 100 articles matching the query.
 
-
+<img width="600" alt="img1" src="./New York Times Articles Word Cloud/AIWordCloud.png">
 
 
 # Requirements
